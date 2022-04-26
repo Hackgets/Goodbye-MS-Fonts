@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+html,
+menu,
+menubar,
+menulist,
+menuitem,
+window,
+tooltip,
+#editBookmarkPanel {
+    font-family: "Noto Sans", "Noto Sans JP" !important;
+    font-size: 16px !important;
+    font-feature-settings: "palt" !important;
+}
+#urlbar {
+    font-size: 1rem !important;
+}
+#urlbar-zoom-button {
+    font-size: 0.9rem !important;
+}
+tooltip {
+    -moz-appearance: none !important;
+    background-color: var(--dark-menu-background-color) !important;
+    color: var(--dark-menu-color) !important;
+    border-width: 0 !important;
+}
+#tabs-newtab-button,
+#tabbrowser-tabs .tabbrowser-tab .tab-close-button,
+#PanelUI-menu-button {
+    display: none !important;
+}
