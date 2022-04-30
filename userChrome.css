@@ -11,12 +11,6 @@ tooltip {
     font-size: 16px !important;
     font-feature-settings: "palt" !important;
 }
-#urlbar {
-    font-size: 1rem !important;
-}
-#urlbar-zoom-button {
-    font-size: 0.9rem !important;
-}
 tooltip {
     -moz-appearance: none !important;
     background-color: var(--dark-menu-background-color) !important;
