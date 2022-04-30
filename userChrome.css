@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-html,
+box,
 menu,
 menubar,
 menulist,
@@ -25,6 +25,7 @@ tooltip {
 }
 #tabs-newtab-button,
 #tabbrowser-tabs .tabbrowser-tab .tab-close-button,
+#star-button-box,
 #PanelUI-menu-button {
     display: none !important;
 }
