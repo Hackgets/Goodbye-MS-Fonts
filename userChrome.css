@@ -5,9 +5,11 @@ menu,
 menubar,
 menulist,
 menuitem,
+hbox#statuspanel,
+findbar,
 window,
 tooltip {
-    font-family: "Noto Sans", "Noto Sans JP" !important;
+    font-family: sans-serif !important;
     font-size: 16px !important;
     font-feature-settings: "palt" !important;
 }
