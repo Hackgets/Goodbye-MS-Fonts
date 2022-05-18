@@ -1,0 +1,43 @@
+@font-face { 
+  font-family: "ＭＳ ゴシック"; 
+  src: local("Noto Sans Mono CJK JP");
+}
+@font-face { 
+  font-family: "MS Gothic"; 
+  src: local("Noto Sans Mono CJK JP");
+}
+@font-face {
+  font-family: "ＭＳ Ｐゴシック";
+  src: local("Noto Sans JP");
+  font-feature-settings: "palt";
+}
+@font-face { 
+  font-family: "MS PGothic"; 
+  src: local("Noto Sans JP");
+  font-feature-settings: "palt";
+}
+@font-face { 
+  font-family: "MS UI Gothic"; 
+  src: local("Noto Sans JP");
+  font-feature-settings: "palt";
+}
+@font-face { 
+  font-family: "メイリオ"; 
+  src: local("Noto Sans JP");
+}
+@font-face { 
+  font-family: "Meiryo"; 
+  src: local("Noto Sans JP");
+}
+@font-face { 
+  font-family: "Meiryo UI"; 
+  src: local("Noto Sans JP");
+}
+@font-face { 
+  font-family: "Yu Gothic UI"; 
+  src: local("Noto Sans JP");
+}
+@font-face { 
+  font-family: "Segoe UI";
+  src: local("Noto Sans JP");
+}
