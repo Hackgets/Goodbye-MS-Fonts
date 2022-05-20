@@ -1,43 +1,106 @@
 @font-face { 
   font-family: "ＭＳ ゴシック"; 
   src: local("Noto Sans Mono CJK JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "ＭＳ ゴシック"; 
+  src: local("Noto Sans Mono CJK JP Bold");
+  font-weight: bold;
 }
 @font-face { 
   font-family: "MS Gothic"; 
   src: local("Noto Sans Mono CJK JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "MS Gothic"; 
+  src: local("Noto Sans Mono CJK JP Bold");
+  font-weight: bold;
 }
 @font-face {
   font-family: "ＭＳ Ｐゴシック";
   src: local("Noto Sans JP");
+  font-weight: normal;
+  font-feature-settings: "palt";
+}
+@font-face {
+  font-family: "ＭＳ Ｐゴシック";
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
   font-feature-settings: "palt";
 }
 @font-face { 
   font-family: "MS PGothic"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+  font-feature-settings: "palt";
+  }
+@font-face { 
+  font-family: "MS PGothic"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
   font-feature-settings: "palt";
 }
 @font-face { 
   font-family: "MS UI Gothic"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+  font-feature-settings: "palt";
+}
+@font-face { 
+  font-family: "MS UI Gothic"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
   font-feature-settings: "palt";
 }
 @font-face { 
   font-family: "メイリオ"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "メイリオ"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
 }
 @font-face { 
   font-family: "Meiryo"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "Meiryo"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
 }
 @font-face { 
   font-family: "Meiryo UI"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "Meiryo UI"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
 }
 @font-face { 
   font-family: "Yu Gothic UI"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
 }
 @font-face { 
-  font-family: "Segoe UI";
+  font-family: "Yu Gothic UI"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
+}
+@font-face { 
+  font-family: "Segoe UI"; 
   src: local("Noto Sans JP");
+  font-weight: normal;
+}
+@font-face { 
+  font-family: "Segoe UI"; 
+  src: local("Noto Sans JP bold");
+  font-weight: bold;
 }
