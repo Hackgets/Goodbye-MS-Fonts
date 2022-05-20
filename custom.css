@@ -96,11 +96,11 @@
 }
 @font-face { 
   font-family: "Segoe UI"; 
-  src: local("Noto Sans JP");
+  src: local("Noto Sans");
   font-weight: normal;
 }
 @font-face { 
   font-family: "Segoe UI"; 
-  src: local("Noto Sans JP bold");
+  src: local("Noto Sans bold");
   font-weight: bold;
 }
