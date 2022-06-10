@@ -86,21 +86,21 @@
 }
 @font-face { 
   font-family: "Yu Gothic UI"; 
+  src: local("Noto Sans JP Light");
+  font-weight: 300;
+}
+@font-face { 
+  font-family: "Yu Gothic UI"; 
   src: local("Noto Sans JP");
-  font-weight: normal;
+  font-weight: 400;
+}
+@font-face { 
+  font-family: "Yu Gothic UI"; 
+  src: local("Noto Sans JP Medium");
+  font-weight: 500;
 }
 @font-face { 
   font-family: "Yu Gothic UI"; 
   src: local("Noto Sans JP bold");
-  font-weight: bold;
-}
-@font-face { 
-  font-family: "Segoe UI"; 
-  src: local("Noto Sans");
-  font-weight: normal;
-}
-@font-face { 
-  font-family: "Segoe UI"; 
-  src: local("Noto Sans bold");
-  font-weight: bold;
+  font-weight: 600 700;
 }
