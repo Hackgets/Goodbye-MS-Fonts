@@ -1,0 +1,22 @@
+@font-face { 
+  font-family: "Arial"; 
+  src: local("Noto Sans");
+  font-weight: 400;
+}
+@font-face { 
+  font-family: "Arial"; 
+  src: local("Noto Sans Italic");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face { 
+  font-family: "Arial"; 
+  src: local("Noto Sans Bold");
+  font-weight: 700 900;
+}
+@font-face { 
+  font-family: "Arial"; 
+  src: local("Noto Sans Bold Italic");
+  font-weight: 700;
+  font-style: italic;
+}
