@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+      "enable": true,
+      "source": "Arial",
+      "target": "Public Sans"
+    },
+    {
+      "enable": true,
+      "source": "Helvetica",
+      "target": "Public Sans"
+    },
+    {
+      "enable": true,
+      "source": "Times",
+      "target": "Gelasio"
+    },
+    {
+      "enable": true,
+      "source": "Times New Roman",
+      "target": "Gelasio"
+    },
+    {
+      "enable": true,
+      "source": "Meiryo",
+      "target": "M+ 1c"
+    },
+    {
+      "enable": true,
+      "source": "メイリオ",
+      "target": "M+ 1c"
+    },
+    {
+      "enable": true,
+      "source": "Yu Mincho",
+      "target": "Noto Serif CJK JP"
+    },
+    {
+      "enable": true,
+      "source": "游明朝",
+      "target": "Noto Serif CJK JP"
+    },
+    {
+      "enable": true,
+      "source": "Hiragino Mincho ProN",
+      "target": "Noto Serif CJK JP"
+    },
+    {
+      "enable": true,
+      "source": "ヒラギノ明朝 ProN",
+      "target": "Noto Serif CJK JP"
+    }
+  ]
+}
